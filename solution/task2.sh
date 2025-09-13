@@ -1,0 +1,1 @@
+grep -o -w "вина" data/pushkin.txt | wc -l
